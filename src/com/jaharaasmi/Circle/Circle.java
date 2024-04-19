@@ -1,7 +1,7 @@
 package com.jaharaasmi.Circle;
 import java.util.Scanner;
 	public class Circle 
-		{
+	{
 			public double radius;
 			public String color;
 			
